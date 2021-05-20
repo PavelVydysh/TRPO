@@ -2,7 +2,7 @@
 name: UserStory
 about: My UserStory
 title: ''
-labels: ТРПО, UserStory
+labels: UserStory
 assignees: PavelVydysh
 
 ---
